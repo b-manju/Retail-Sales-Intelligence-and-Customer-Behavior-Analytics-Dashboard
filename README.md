@@ -143,7 +143,7 @@ ORDER BY total_revenue DESC;
 
 ## 📺 Dashboard Walkthrough
 
-### Page 1 — Overview
+### Page 1 — Retail Sales & Customer Intelligence Overview
 
 > High-level business performance at a glance
 
@@ -163,7 +163,7 @@ ORDER BY total_revenue DESC;
 - **Purchase Frequency:** Even distribution across weekly to annual shoppers
 - **Shopping Type:** Balanced across Free Shipping, Standard, Express, Store Pickup, 2-Day
 
-### Page 3 — Revenue Driver Analysis & Geographic Insights
+### Page 3 — Revenue Driver & Regional Analysis
 
 > Decomposition tree to drill from total revenue to individual transaction drivers
 
