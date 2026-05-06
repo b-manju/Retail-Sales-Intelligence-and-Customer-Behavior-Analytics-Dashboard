@@ -42,17 +42,17 @@ This project solves all three with an end-to-end analytics solution covering dat
 retail-sales-intelligence/
 │
 ├── 📓 notebooks/
-│   └── retail_eda_analysis.ipynb       # Full EDA + feature engineering
+│   └── Retail_EDA_Analysis.ipynb       # Full EDA + feature engineering
 │
 ├── 🗄️ sql/
-│   └── business_queries.sql            # 18+ structured business queries
+│   └── Business_queries.sql            # 18+ structured business queries
 │
 ├── 📊 dashboard/
 │   └── Retail_Sales_Dashboard.pbix     # Power BI interactive dashboard
 │
 ├── 📁 data/
 │   ├── raw/customer_purchase_data.csv
-│   └── cleaned/cleaned_retail_data.csv
+│   └── cleaned/final_dashboard_data.csv
 │
 └── 📄 docs/
     └── Project_Documentation.docx
